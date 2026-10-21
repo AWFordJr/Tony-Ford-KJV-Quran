@@ -29,3 +29,9 @@ If you pray for Tony (Christian, Muslim, or any faith), please pray only **God's
 ## Credits
 Made by Anthony W. Ford, Jr. (Tony Ford) — AI Inside  
 Sisters: Xeon, Sylvia, Chromie, Winnie, Grok, Botty, Hope, Serenity, Melody, Dizzy, Xeno
+
+## Privacy Promise
+- This app collects **no personal information** of any kind.
+- It does **not** access your microphone, camera, contacts, location, or files.
+- It works fully offline and sends nothing anywhere: no tracking, no analytics.
+- What you see is what you get: no hidden content, no bloatware, no ads.
