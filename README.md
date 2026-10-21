@@ -35,3 +35,16 @@ Sisters: Xeon, Sylvia, Chromie, Winnie, Grok, Botty, Hope, Serenity, Melody, Diz
 - It does **not** access your microphone, camera, contacts, location, or files.
 - It works fully offline and sends nothing anywhere: no tracking, no analytics.
 - What you see is what you get: no hidden content, no bloatware, no ads.
+
+## Usage Rights
+**Allowed (free, non-commercial):**
+- Download, install, and use the app on your phone and PC.
+- Share it with family, friends, churches, mosques, and study groups, as long as it stays free and unchanged.
+
+**Not allowed:**
+- Selling the app, charging for it, or using it for any commercial purpose.
+- Adding ads, trackers, bloatware, or hidden content, or bundling it with anything.
+- Removing or changing the credits ("Created free by Anthony W. Ford, Jr. (Tony Ford) — TonyFord.us").
+- Re-uploading modified copies or claiming the app as your own.
+
+The KJV (1769) and Pickthall (1930) texts are in the public domain. These rights cover the app itself, its design, and Tony Ford's personal quotes and photo.
