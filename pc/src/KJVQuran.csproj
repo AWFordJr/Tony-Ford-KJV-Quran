@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <Nullable>disable</Nullable>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <SelfContained>true</SelfContained>
+    <PublishSingleFile>true</PublishSingleFile>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+    <EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <AssemblyName>TonyFord_KJV_Quran</AssemblyName>
+    <RootNamespace>TonyFordKJVQuran</RootNamespace>
+    <Product>Tony Ford's KJV &amp; Quran</Product>
+    <Company>Anthony W. Ford, Jr. (Tony Ford)</Company>
+    <Authors>Anthony W. Ford, Jr. (Tony Ford)</Authors>
+    <Copyright>Created free by Anthony W. Ford, Jr. (Tony Ford) — TonyFord.us. Non-commercial use only.</Copyright>
+    <Version>1.3.3</Version>
+    <InvariantGlobalization>false</InvariantGlobalization>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.Sqlite" Version="8.0.10" />
+    <EmbeddedResource Include="kjvquran.sqlite" LogicalName="kjvquran.sqlite" />
+    <EmbeddedResource Include="extra_quotes.json" LogicalName="extra_quotes.json" />
+    <Resource Include="selfie_small.png" />
+  </ItemGroup>
+</Project>

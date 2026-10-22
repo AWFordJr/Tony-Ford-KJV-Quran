@@ -18,7 +18,18 @@ No commentary injected into the scripture.
 | Platform | Format | Status |
 |----------|--------|--------|
 | Phone (Android) | APK | Building |
-| Windows PC | `.exe` (portable + optional installer) | Building |
+| Windows PC | Portable `.exe` (zip) | **Released: v1.3.3** |
+
+## Windows PC version
+1. Download **TonyFord_KJV_Quran_PC.zip** from [Releases](https://github.com/AWFordJr/Tony-Ford-KJV-Quran/releases).
+2. Unzip it and double-click **TonyFord_KJV_Quran.exe**.
+
+- Works fully offline. Nothing to install.
+- Requires Windows 10 or 11 (64-bit).
+- The exe is not code-signed, so Windows SmartScreen may warn you. Click **More info**, then **Run anyway**.
+- Your bookmarks, notes and settings stay only on your PC.
+
+Source code for the PC version is in [`pc/src`](pc/src).
 
 ## License / use
 Non-commercial use only. Do not remove credits or the footer attribution.
